@@ -1,0 +1,93 @@
+body{
+  margin: 0px;
+
+}
+h1{
+  font-size: 60px;
+  margin-top: 0px;
+  position: absolute;
+  left: 60%;
+  top: 40%;
+  font-weight: lighter;
+  margin-bottom: 0px;
+  font-family: 'Pacifico', cursive;
+}
+
+.one{
+  font-family: 'Pacifico', cursive;
+  position: absolute;
+  left: 60%;
+  top: 60%;
+  font-size: 45px;
+  color: #086972;
+  ;
+}
+section{
+  text-align: center;
+  background-color:  #ff4c68;
+  padding: 20px;
+  margin: 20px 0 20px;
+}
+.img1{
+  height: 300px;
+  width: 250px;
+
+}
+.img2{
+  height: 300px;
+  width: 250px;
+}
+
+.arrow{
+  color: black;
+  }
+
+.top-container{
+  background-image: url("bcg4.jpg");
+  opacity: 90%;
+  background-size: cover;
+  height: 700px;
+  width: 100%;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+
+#memories{
+  padding:5% 7%;
+  background-color: #fce8d5;
+}
+img{
+  height: 400px;
+  width: 300px;
+  margin: 80px;
+  border-style: groove;
+  border-color: #e7dfd5;
+
+}
+#credits{
+  background-color: #66BFBF;
+  padding: 50px;
+  text-align: center;
+  color:#11999E;
+  margin-top: 20px;
+}
+#credits:hover{
+  color: white;
+}
+p{
+  font-weight: bolder;
+  font-size: 30px;
+
+}
+#vid{
+  margin: 0;
+
+}
+.video{
+  height: 800px;
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 50px 50px;
+  background-color: lightgrey;
+}
