@@ -63,7 +63,8 @@ img{
   margin: 80px;
   border-style: groove;
   border-color: #e7dfd5;
-
+  border-style: outset;
+  border-color: black;
 }
 #credits{
   background-color: #66BFBF;
